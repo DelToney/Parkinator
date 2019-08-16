@@ -1,0 +1,22 @@
+{
+  "name": "parkinator",
+  "version": "1.0.0",
+  "description": "this isnt where i parked my car",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DelToney/Parkinator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DelToney/Parkinator/issues"
+  },
+  "homepage": "https://github.com/DelToney/Parkinator#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
