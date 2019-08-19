@@ -5,7 +5,7 @@
 - button to place a marker and to name it
 - button to access all markers (list)
 - button to clear current marker
-- button to open marker in google maps
+- utton to open marker in google maps
 
 ## use cases
 
