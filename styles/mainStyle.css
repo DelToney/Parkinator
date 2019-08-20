@@ -1,0 +1,7 @@
+ /*  Set the map to take up the entire browser
+*   window
+*/
+#map {
+    height : 100%;
+    width : 100%
+}
